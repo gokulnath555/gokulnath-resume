@@ -1,0 +1,60 @@
+
+ IP ADDRESS:
+
+An IP address, or simply an "IP," is a unique address that identifies a device on the Internet or a local network. It allows a 
+system to be recognized by other systems connected via the Internet protocol. There are two primary types of IP address formats used today — IPv4 and IPv6.
+
+OS:
+
+An Operating System (OS) is an interface between a computer user and computer hardware. An operating system is a software which performs all the basic tasks like file management, memory management, process management, handling input and output, and controlling peripheral devices such as disk drives and printers.
+
+Some popular Operating Systems include Linux, Windows, OS X, VMS, OS/400, AIX, z/OS, etc.
+
+
+
+DNS:
+
+(Domain Name System) The Internet's system for converting alphabetic names into numeric IP addresses. For example, when a Web address (URL) is typed into a browser, DNS servers return the IP address of the Web server associated with that name. In this made-up example, the DNS converts the URL www.company.com into the IP address 204.0.8.51. Without DNS, you would have to type the series of four numbers and dots into your browser to retrieve the website, which you actually can do. See IP address.
+
+VPN:
+
+A VPN or Virtual Private Network is a method used to add security and privacy to private and public networks, like WiFi Hotspots and the Internet. VPNs are most often used by corporations to protect sensitive data.
+
+
+Linux commands
+
+cp 	==copy the file
+mv	==change the name of the file
+whoami	==who you are 
+cal	==calender
+cat	== see the content of the file
+wc	==count the total number of lines,words character in a file
+vi	== create the filename
+rm 	== remove the file
+cd 	==change the directory
+mkdir	== create the new directory
+rmdir	==remove the directory
+
+
+MAN command:
+ man is the interface used to view the system's reference manuals.
+
+SUDO:
+Sudo (superuser do) is a utility for UNIX- and Linux-based systems that provides an efficient way to give specific users permission to use specific system commands at the root (most powerful) level of the system. Sudo also logs all commands and arguments.
+
+PIPE command:
+
+A pipe is a form of redirection that is used in Linux and other Unix-like operating systems to send the output of one program to another program for further processing. ... Pipes are used to create what can be visualized as a pipeline of commands, which is a temporary direct connection between two or more simple programs.
+
+
+IFCONFIG:
+
+ifconfig stands for "interface configuration". It is used to view and change the configuration of the network interfaces on your system.
+
+PING:
+he ping command helps to verify IP-level connectivity. When troubleshooting, you can use ping to send an ICMP echo request to a target host name or IP address. Use ping whenever you need to verify that a host computer can connect to the TCP/IP network and network resources. You can also use ping to isolate network hardware problems and incompatible configurations.
+
+
+
+
+
